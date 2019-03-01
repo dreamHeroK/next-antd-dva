@@ -1,5 +1,5 @@
 import React, { Component } from "react"
-import "./layout.less";
+import "./layout.less"
 
 export default class layout extends Component {
   componentDidMount = () => {
