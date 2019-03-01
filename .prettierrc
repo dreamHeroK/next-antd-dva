@@ -1,0 +1,13 @@
+{
+  "printWidth": 160,
+  "trailingComma": "none",
+  "jsxBracketSameLine": false,
+  "singleQuote": false,
+  "semi": false,
+  "overrides": [
+    {
+      "files": ["*.json", ".eslintrc", ".tslintrc", ".prettierrc", ".tern-project"],
+      "options": { "parser": "json" }
+    }
+  ]
+}

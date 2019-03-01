@@ -1,5 +1,5 @@
-import React, { Component } from 'react'
-import { Button } from 'antd'
+import React, { Component } from "react"
+import { Button } from "antd"
 
 export default class Home extends Component {
   componentDidMount = () => {
