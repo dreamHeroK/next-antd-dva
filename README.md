@@ -1,1 +1,1 @@
-- 本项目为实现`next` `antd` `less` `eslint` `dva` 脚手架,参考官方example(next-with-antdesign-less)["https://github.com/dreamHeroK/next.js/tree/canary/examples/with-ant-design-less"],(with-redux-saga)["https://github.com/zeit/next.js/tree/master/examples/with-redux-saga"]
+- 本项目为实现`next` `antd` `less` `eslint` `dva` 脚手架,参考官方example[next-with-antdesign-less](https://github.com/dreamHeroK/next.js/tree/canary/examples/with-ant-design-less),[with-redux-saga](https://github.com/zeit/next.js/tree/master/examples/with-redux-saga)
